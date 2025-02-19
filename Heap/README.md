@@ -104,3 +104,4 @@ Heap elements: 1 3 8 5
 Extracted Min: 1
 Heap after extraction: 3 5 8
  ```
+**asciinema**:https://asciinema.org/a/yWCRcPItaP24of0rEitTzMiO8
