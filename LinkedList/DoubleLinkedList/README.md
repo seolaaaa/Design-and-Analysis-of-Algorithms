@@ -69,4 +69,4 @@ After deleting 20: 5 <-> 10 <-> 25 <-> 30 <-> NULL
 Search for 25: Found
 Reversed List: 30 <-> 25 <-> 10 <-> 5 <-> NULL
 ```
-**asciinema**: https://asciinema.org/a/gSOn2KPgf3Rb6CSU7hG5siles
+**asciinema**: https://asciinema.org/a/gSOn2KPgf3Rb6CSU7hG5siles 
