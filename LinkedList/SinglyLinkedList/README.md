@@ -72,4 +72,4 @@ After deleting from end: 10 -> 30 -> NULL
 Search for 30: Found
 Reversed List: 30 -> 10 -> NULL
 ```
-**asciinema**: [https://asciinema.org/a/SbgckjGt5ksodV5N8uiypx0I0](https://asciinema.org/a/kBsUbTyf2icYCSVFuAKBJi5iK)
+**asciinema**: https://asciinema.org/a/kBsUbTyf2icYCSVFuAKBJi5iK
