@@ -119,3 +119,4 @@ public:
 Circular Linked List: 10 -> 20 -> 30 -> 40 -> (head)
 After deleting 20: 10 -> 30 -> 40 -> (head)
 ```
+**asciinema**: https://asciinema.org/a/iC4Q4dJOcJli7PbD4DUI7thfJ
