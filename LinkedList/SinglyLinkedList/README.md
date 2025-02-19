@@ -58,11 +58,11 @@ void reverse() {  // Reverses the linked list
 
 2. Compile using a C++ compiler:
 ```
-g++ -o linkedlist linkedlist.cpp
+g++ -o singlylinkedlist SinglyLinkedList.cpp
 ```
 3. Run the executable:
    ```
-   ./linkedlist
+   ./singlylinkedlist
    ```
 ## Example Ouput
 ```
