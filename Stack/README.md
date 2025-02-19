@@ -72,3 +72,4 @@ Top element: 30
 30 popped from stack
 Stack elements: 20 10
 ```
+**asciinema**:https://asciinema.org/a/lzymDObvRAYm0z3csb7TplgSY
