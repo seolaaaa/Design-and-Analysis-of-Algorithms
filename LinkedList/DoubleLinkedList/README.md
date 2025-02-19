@@ -54,7 +54,7 @@ void reverse() {  // Reverses the doubly linked list
 
 2. Compile using a C++ compiler:
 ```
-g++ -o doublylinkedlist doubly_linked_list.cpp
+g++ -o doublylinkedlist DoubleLinkedList.cpp
 ```
 3. Run the executable:
 ```
