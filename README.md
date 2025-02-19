@@ -1,2 +1,6 @@
 # Design-and-Analysis-of-Algorithms
-this is our Perfomance Task for Prelims
+
+This is our Perfomance Task for Prelims
+
+
+BY: KENNETH ANDREI C. HIPOS BSCS401
