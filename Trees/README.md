@@ -123,3 +123,4 @@ Preorder traversal: 50 30 20 40 70 60 80
 Postorder traversal: 20 40 30 60 80 70 50
 40 found in the tree.
 ```
+**asciinema**:https://asciinema.org/a/meKyexOM6Tqz1QhRtkbmKwilA
