@@ -1,27 +1,19 @@
-Singly Linked List Implementation in C++
+# Singly Linked List in C++
 
-Overview
+## Overview
+This project is a simple implementation of a **Singly Linked List** in C++. It includes essential operations such as insertion, deletion, searching, reversing, and printing the list. The program demonstrates dynamic memory allocation and pointer manipulation for efficient linked list operations.
 
-This project is a simple implementation of a Singly Linked List in C++. It includes essential operations such as insertion, deletion, searching, reversing, and printing the list. The program demonstrates dynamic memory allocation and pointer manipulation for efficient linked list operations.
+## Features
+- **Insert at Beginning**: Add a node to the start of the list.
+- **Insert at End**: Add a node to the end of the list.
+- **Delete from Beginning**: Remove the first node.
+- **Delete from End**: Remove the last node.
+- **Search**: Check if a value exists in the list.
+- **Reverse**: Reverse the order of nodes.
+- **Print List**: Display all nodes in the list.
 
-Features
-
-Insert at Beginning: Add a node to the start of the list.
-
-Insert at End: Add a node to the end of the list.
-
-Delete from Beginning: Remove the first node.
-
-Delete from End: Remove the last node.
-
-Search: Check if a value exists in the list.
-
-Reverse: Reverse the order of nodes.
-
-Print List: Display all nodes in the list.
-
-Core Lines of Code
-
+## Core Lines of Code
+```cpp
 struct Node {  // Defines the structure of a node
     int data;
     Node* next;
@@ -53,34 +45,30 @@ void reverse() {  // Reverses the linked list
     }
     head = prev;
 }
+```
+## Use Cases
+- **Basic Data Structure Learning**: Helps understand linked list operations.
+- **Competitive Programming**: Useful for solving linked list-based problems.
+- **Memory Management Practice**: Demonstrates dynamic memory allocation in C++.
+- **Building Larger Applications**: Forms the basis for more complex data structures like stacks, queues, and graphs.
 
-Use Cases
+## How to Run
 
-Basic Data Structure Learning: Helps understand linked list operations.
+1. Copy the source code into a .cpp file.
 
-Competitive Programming: Useful for solving linked list-based problems.
-
-Memory Management Practice: Demonstrates dynamic memory allocation in C++.
-
-Building Larger Applications: Forms the basis for more complex data structures like stacks, queues, and graphs.
-
-How to Run
-
-Copy the source code into a .cpp file.
-
-Compile using a C++ compiler:
-
-g++ -o linkedlist SinglyLinkedList.cpp
-
-Run the executable:
-
-./linkedlist
-
-Example Output
-
+2. Compile using a C++ compiler:
+```
+g++ -o linkedlist linkedlist.cpp
+```
+3. Run the executable:
+   ```
+   ./linkedlist
+   ```
+## Example Ouput
+```
 Original List: 20 -> 10 -> 30 -> 40 -> NULL
 After deleting from beginning: 10 -> 30 -> 40 -> NULL
 After deleting from end: 10 -> 30 -> NULL
 Search for 30: Found
 Reversed List: 30 -> 10 -> NULL
-
+```
